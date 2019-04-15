@@ -1,0 +1,24 @@
+{
+  "name": "ReadFiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacksonYang0315/ReadFiles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacksonYang0315/ReadFiles/issues"
+  },
+  "homepage": "https://github.com/JacksonYang0315/ReadFiles#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
